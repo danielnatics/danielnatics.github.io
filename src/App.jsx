@@ -10,12 +10,12 @@ import Home from "./components/Home";
 // You can create a simple Navbar component later to go here
 const App = () => {
   return (
-    <Home/>
-    // <Router>
-    //   <Routes>
-    //     <Route path="/" element={<Home />} />
-    //   </Routes>
-    // </Router>
+    // <Home/>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
+    </Router>
   );
 };
 
