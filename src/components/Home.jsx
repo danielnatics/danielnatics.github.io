@@ -49,7 +49,7 @@ const Home = () => {
           />
           <div className="flex gap-6 mt-6 text-gray-600">
             <a
-              href="https://github.com/egwuatudaniel"
+              href="https://github.com/danielnatics"
               target="_blank"
               rel="noreferrer"
               className="hover:text-blue-600"
@@ -57,12 +57,20 @@ const Home = () => {
               GitHub
             </a>
             <a
-              href="https://linkedin.com/in/egwuatudaniel"
+              href="https://www.linkedin.com/in/egwuatu-daniel-b250471b7"
               target="_blank"
               rel="noreferrer"
               className="hover:text-blue-600"
             >
               LinkedIn
+            </a>
+            <a
+              href="https://heztec.com"
+              target="_blank"
+              rel="noreferrer"
+              className="hover:text-blue-600"
+            >
+              HezTec
             </a>
           </div>
         </div>
